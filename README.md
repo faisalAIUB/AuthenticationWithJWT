@@ -7,4 +7,4 @@ AuthenticationWithJWT is a ASP.NET Project for authentication with Microsoft.Asp
 Clone the repo and run the project. Minimun Visual studio 19 is required.
 
 ### Description
-A simple project with user registration and login with jwt bearer token. Swagger is also inculed for api documentation
+A simple project with user registration and login with jwt bearer token. Swagger is also included for api documentation
